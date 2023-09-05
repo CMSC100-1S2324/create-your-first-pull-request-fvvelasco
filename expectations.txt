@@ -1,0 +1,9 @@
+||Expectations on CMSC 100 course||
+
+Coming into this class, I didn't have much knowledge and experience on 
+web development. Due to this I wouldn't know much what to expect for 
+this course. After reading the course outline, most of the topics I 
+see are new to me otherthan the reviewing of HTML, CSS and Javascript.
+
+Hopefully it wouldn't be too bumpy on trying to learn web development this
+semester with the help of this course and professor who is Sir Carl.
